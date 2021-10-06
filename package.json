@@ -1,6 +1,7 @@
 {
   "name": "star-wars-project",
   "version": "0.1.0",
+  "homepage":"https://denn161.github.io/reactProject-star-wars/",
   "private": true,
   "dependencies": {
     "classnames": "^2.3.1",
