@@ -1,0 +1,11 @@
+.buttons{
+     margin: var(--spacing-small);
+     display: inline-block;
+     text-decoration: none;
+}
+
+.container{
+     display: flex;
+     justify-content: center;
+
+}
