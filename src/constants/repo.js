@@ -1,0 +1,1 @@
+export const REPO_NAME = 'reactProject-star-wars'
